@@ -2,7 +2,6 @@
 //spwan
 //exec
 //fork
-*/
 import{spawn, exec, fork } from 'child_process';
 
 

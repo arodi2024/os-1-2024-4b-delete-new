@@ -1,4 +1,4 @@
-import {childprocesses} from '/workspaces/OS-1-2024b/projects/child-processes.js'
+import {childprocesses} from '/workspaces/OS-1-2024b/projects/child_processes.js'
 import {ipc} from '/workspaces/OS-1-2024b/projects/ipc.js'
 import {ProcessesState} from '/workspaces/OS-1-2024b/projects/processes-state.js'
 
