@@ -1,6 +1,6 @@
-import {childprocesses} from '/workspaces/OS-1-2024b/projects/child_processes.js'
-import {ipc} from '/workspaces/OS-1-2024b/projects/ipc.js'
-import {ProcessesState} from '/workspaces/OS-1-2024b/projects/processes-state.js'
+import {childprocesses} from '/workspaces/OS-1-2024b-delete-new/projects/child_processes.js'
+import {ipc} from '/workspaces/OS-1-2024b-delete-new/projects/ipc.js'
+import {ProcessesState} from '/workspaces/OS-1-2024b-delete-new/projects/processes-state.js'
 
 console.log("🌟Programa de procesosos🌟")
 let option= process.argv[2];
